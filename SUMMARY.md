@@ -16,6 +16,6 @@
 * [Crypto Mining & Validation Cost-Benefit Analysis](crypto-mining-and-validation-cost-benefit-analysis.md)
 * [Nature DAO Website](https://naturedao.tech)
 * [Git Hub](https://github.com/NatureDAOTech)
+* [Discord](https://discord.gg/APbfVTM5JV)
 * [Medium](https://medium.com/@naturedaotech)
-* [Discord](https://discord.com/invite/cwH9cENp)
 * [Twitter](https://twitter.com/NatureDAOTech)
