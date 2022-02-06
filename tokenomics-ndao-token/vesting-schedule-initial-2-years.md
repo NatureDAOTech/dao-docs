@@ -4,7 +4,7 @@ description: Vesting schedule of 4 million NDAO tokens for initial 2 year
 
 # Vesting schedule - Initial 2 years
 
-### Core Team, Remuneration, and Reward - 2 Million NDAO
+### Core Team, Remuneration, and Reward&#x20;
 
 
 
