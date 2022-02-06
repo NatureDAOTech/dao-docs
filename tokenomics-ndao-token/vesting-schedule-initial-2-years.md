@@ -19,9 +19,9 @@ description: Vesting schedule of 4 million NDAO tokens for initial 2 year
 |                                                                                                                                    |                              **Total Montly** | **83,000**                                                                                                |                                     |
 |                                                                                                                                    |              **2 Years (24 Months)**          | **1,992,000**                                                                                             |                                     |
 
-### Pilot Physical Site setup - 2 Millon NDAO
+### Pilot Physical Site setup&#x20;
 
-An estimated 2 million NDAO tokens will be spent to setup the pilot physical site as per the roadmap. This spending will be approved by Community during each milestone (quarter)
+An estimated **2 million NDAO tokens** will be spent to setup the pilot physical site as per the roadmap. This spending will be approved by Community during each milestone (quarter)
 
 Contract Address: TODO - Add link of Mainnet address
 
