@@ -6,6 +6,7 @@ description: Started in Mid-2020
 
 ### Current state
 
+* Pilot site update page - TODO - Add link to Pilot site status page on Nature DAO website
 * 28 acres of land is acquired by the NGO in Aurangabad district of Maharashtra State of India
 * 7 rainwater harvesting pond and big well is dug to source water all year around
 
