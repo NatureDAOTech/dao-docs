@@ -8,7 +8,7 @@ The very first participants to supply the capital to the DAO. This program close
 
 Contract Address: TODO - Add link of Mainnet address
 
-### Community Treasury (30%)
+### Community Treasury(30%)
 
 The community can decide to use it for purposes such as expenses to the setup of the physical site, team remuneration as described in vesting schedules, and road map.
 

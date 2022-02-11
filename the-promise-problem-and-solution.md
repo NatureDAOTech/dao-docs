@@ -7,8 +7,8 @@
 
 ### The problem in the blockchain economy
 
-* Blockchain minor and validators use as much energy as mining for real metals according to new research. Some reports suggest, Electricity used in Bitcoin mining surpasses the power consumption of 159 countries.
-* These reports may not be 100% accurate but the truth is mining facilities are setup in colder and economically better-off countries. That sustains the same problem - centralization and economic disparity between hot & developing countries vs cold & developed countries. Note- China has suspended all mining activities due to the high consumption of fossil fuels.
+* Energy consumption by Blockchain minor and validators is the main talking point of Cryptocurrency critics.&#x20;
+* Reports explaining insane energy use by miners may not be 100% accurate but the truth is mining facilities are set up in colder and economically better-off countries. That sustains the same problem - centralization and economic disparity between hot & developing countries vs cold & developed countries. Note- China has suspended all mining activities due to the high consumption of fossil fuels.
 
 ### The problem in the real world
 
@@ -17,10 +17,10 @@
 
 ### Solution - Self sustainable blockchain facility&#x20;
 
-Connect with NGO or Charity who has land and&#x20;
+Connect with NGO or Charity that has land and&#x20;
 
-* Build cow shed with solar panel roof
-* Bring in stray cows
+* Permaculture plantation with rainwater harvesting
+* Build cow shed with solar panel roof and bring in stray cows
 * Build BioGas electricity generation plant designed by Aisin-Japan. [https://aisinindia.com/bio-gas](https://aisinindia.com/bio-gas)&#x20;
 * Build blockchain mining and validators facility
 * Blockchain and nature preservations training facility for the local community
