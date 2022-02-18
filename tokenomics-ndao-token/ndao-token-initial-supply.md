@@ -1,6 +1,8 @@
 # NDAO Token Initial Supply
 
 {% embed url="https://drive.google.com/file/d/11JmybL68kCy83xyuktnYXEIVISd6jXbI/view" %}
+<mark style="color:blue;">**12 Million NDAO tokens**</mark>
+{% endembed %}
 
 ### General Investors (33%)&#x20;
 
