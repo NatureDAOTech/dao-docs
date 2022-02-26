@@ -9,3 +9,4 @@
 ### Existing tokens burn process
 
 * When the physical site is decommissioned due to operational and non-compliance reasons, then the tokens released for that site will be burnt, the contract will be decommissioned hence reducing the total supply.
+* Community Treasury will buy back these tokens from the revenue treasury has earned with its NDAO token holding.

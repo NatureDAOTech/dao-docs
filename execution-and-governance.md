@@ -9,7 +9,7 @@
 * Expected revenue streams on the physical site:&#x20;
   * Mining & validators reward
   * Global Carbon Credit received due to renewable and plantation
-  * Training and sale of agricultural products
+  * Training fees
 *   Revenue generated at the physical sites will be distributed monthly as below:&#x20;
 
     * 40% will go to NGO where the physical site is up and running. This will ensure the NGO has the interest to keep the site functioning at the optimum level.&#x20;
