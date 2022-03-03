@@ -34,5 +34,3 @@ description: 10 million NDAO tokens
 
 An estimated **500,000 UST** will be spent to setup the pilot physical site as per the roadmap. This spending will be approved by Community during each milestone (quarter)
 
-Contract Address: TODO - Add link of Mainnet address
-
