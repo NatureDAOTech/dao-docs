@@ -10,10 +10,8 @@
   * Mining & validators reward
   * Global Carbon Credit received due to renewable and plantation
   * Training fees
-*   Revenue generated at the physical sites will be distributed monthly as below:&#x20;
+* Revenue generated at the physical sites will be distributed monthly as below:&#x20;
+  * 40% will go to NGO where the physical site is up and running. This will ensure the NGO has the interest to keep the site functioning at the optimum level.&#x20;
+  * 60% will be deposited to the Community Revenue contract. From there the funds will be distributed as dividends to NDAO token holders as per their respective token holdings.&#x20;
 
-    * 40% will go to NGO where the physical site is up and running. This will ensure the NGO has the interest to keep the site functioning at the optimum level.&#x20;
-    * 60% will be deposited to the Community Revenue contract. From there the funds will be distributed as dividends to NDAO token holders as per their respective token holdings.&#x20;
-
-    For example, if we have 1000 sites running, each site will have its own contract where mining, validation, and training revenue will be collected. So 40% of the particular site revenue will be transferred to the wallet of NGO running their own site. 60% percent of the revenue will be transferred to the wallet of Community Revenue automatically at the end of the month. In this way, each NGO will get directly paid into their respective wallets and the Global community Revenue wallet will collect revenue from all the sites. So the Community review wallet will get 60% of all the 1000 sites running and then it will pay NDAO holders the dividend as per their respective NDAO holdings.
-
+For example, if we have 1000 sites running, each site will have its own contract where mining, validation, and carbon credit revenue will be collected. 40% of the particular site revenue will be transferred to the wallet of NGO running their own site. 60% percent of the revenue of all the 100 sites will be transferred to the wallet of Community Revenue automatically at the end of the month.&#x20;
