@@ -14,4 +14,4 @@
   * 40% will go to NGO where the physical site is up and running. This will ensure the NGO has the interest to keep the site functioning at the optimum level.&#x20;
   * 60% will be deposited to the Community Revenue contract. From there the funds will be distributed as dividends to NDAO token holders as per their respective token holdings.&#x20;
 
-For example, if we have 1000 sites running, each site will have its own contract where mining, validation, and carbon credit revenue will be collected. 40% of the particular site revenue will be transferred to the wallet of NGO running their own site. 60% percent of the revenue of all the 100 sites will be transferred to the wallet of Community Revenue automatically at the end of the month.&#x20;
+For example, when 1000 sites are running, each site will have its own contract where mining, validation, and carbon credit revenue will be collected. 40% of the particular site revenue will be transferred to the wallet of NGO running their own site. 60% percent of the revenue of all the 1000 sites will be transferred to the wallet of Community Revenue automatically at the end of the month.&#x20;

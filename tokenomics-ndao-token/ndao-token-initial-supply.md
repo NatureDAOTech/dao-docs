@@ -18,7 +18,7 @@ Contract address - [View on Polygonscan](https://mumbai.polygonscan.com/address/
 
 Multiseg Contract Address: [View on Polygonscan](https://mumbai.polygonscan.com/address/0xF91E04f4C4aaf906eFBfD3A70EFba22D3fe07dC5)
 
-### Vesting On Team(42%)
+### Vesting over 2 years(42%)
 
 Contract Address: [View on Polygonscan](https://mumbai.polygonscan.com/address/0xB37195297b600CB30F42e33bc7311f9c66aF890a)
 

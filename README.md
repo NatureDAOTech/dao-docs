@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-### **Bring non-governmental organizations (NGOs) and Charities working on nature restoration to Decentralize autonomous organization**
+### **Bring non-governmental organizations (NGOs) and Charities working on nature restoration to Decentralize autonomous organization to access DeFi**
 
 Nature DAO is a decentralized autonomous organization with the mission to expand access to capital for nature preservation through decentralized finance. The DAO makes this possible by engaging with real-world non-governmental organizations(NGOs) and Charities already working on nature preservation projects.
 
