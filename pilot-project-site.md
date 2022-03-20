@@ -18,5 +18,5 @@ description: Started in Mid-2020
 
 ### After Pilot success
 
-* Run the project sites across India, South Asia, Africa, South America
+* [Run the project sites across India](https://www.naturedao.tech/site), South Asia, Africa, South America
 * Multiple sites setup up across the world will bring economic sustainability for the DAO and steady returns for NDAO token holders

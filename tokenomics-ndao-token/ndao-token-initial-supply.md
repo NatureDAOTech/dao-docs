@@ -8,7 +8,7 @@
 
 The very first participants to supply the capital to the DAO. This program closes in April 2022.&#x20;
 
-Contract address - [View on Polygonscan](https://mumbai.polygonscan.com/address/0x14DB3f9A671B7449d957ACFfa0AAb9995A8875a1)&#x20;
+Contract address - [View on Polygonscan](https://polygonscan.com/address/0xf524fe0640C6D9Cc52B7972d3AEc2e46F9FaB850)&#x20;
 
 ### Community Treasury(25%)
 
@@ -16,11 +16,11 @@ Contract address - [View on Polygonscan](https://mumbai.polygonscan.com/address/
 
 1 Million tokens spent will be decided by the community to use it for adjustments to protocol distribution mechanics, and coverage for any risk and unexpected expenses.
 
-Multiseg Contract Address: [View on Polygonscan](https://mumbai.polygonscan.com/address/0xF91E04f4C4aaf906eFBfD3A70EFba22D3fe07dC5)
+Multiseg Contract Address: [View on Polygonscan](https://polygonscan.com/address/0x5c27B25731b61ed0d306be1f13c60525e33f19d3)
 
 ### Vesting over 2 years(42%)
 
-Contract Address: [View on Polygonscan](https://mumbai.polygonscan.com/address/0xB37195297b600CB30F42e33bc7311f9c66aF890a)
+Contract Address: [View on Polygonscan](https://polygonscan.com/address/0x8b4651483d6452c7508785BB18BC626Ee1Cbc5f1)
 
 #### Team Remuneration (17%)
 
