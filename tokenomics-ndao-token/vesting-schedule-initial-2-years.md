@@ -1,7 +1,3 @@
----
-description: 10 million NDAO tokens
----
-
 # Vesting schedule - Initial 2 years
 
 
@@ -32,5 +28,5 @@ description: 10 million NDAO tokens
 
 ### Pilot Physical Site setup&#x20;
 
-An estimated **500,000 UST** will be spent to setup the pilot physical site as per the roadmap. This spending will be approved by Community during each milestone (quarter)
+An estimated **500,000 USDT** will be spent to setup the pilot physical site as per the roadmap. This spending will be approved by Community during each milestone (quarter)
 

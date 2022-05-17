@@ -14,7 +14,7 @@
 * [Nature DAO Investor](nature-dao-investor.md)
 * [Spending Schedule for initial 2 years in $ terms](spending-schedule-for-initial-2-years-in-usd-terms.md)
 * [Crypto Mining & Validation Cost-Benefit Analysis](crypto-mining-and-validation-cost-benefit-analysis.md)
-* [Nature DAO Website](https://www.naturedao.tech)
+* [Nature DAO Website](https://www.naturedao.tech/)
 * [Git Hub](https://github.com/NatureDAOTech)
 * [Discord](https://discord.gg/APbfVTM5JV)
 * [Medium](https://medium.com/@naturedaotech)
