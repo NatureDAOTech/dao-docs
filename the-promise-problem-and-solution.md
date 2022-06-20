@@ -21,7 +21,7 @@ Connect with NGO or Charity that has land and&#x20;
 
 * Permaculture plantation with rainwater harvesting
 * Build cow shed with solar panel roof and bring in stray cows
-* Build BioGas electricity generation plant designed by Aisin-Japan. [https://aisinindia.com/bio-gas](https://aisinindia.com/bio-gas)&#x20;
+* Build BioGas electricity generation plant designed by Aisin-Japan. [https://www.aisin.com/en/product/energy/](https://www.aisin.com/en/product/energy/) Watch the [Pilot Site Video](https://www.youtube.com/watch?v=T8Lmu26eixk) of this technology.
 * Build blockchain mining and validators facility
 * Blockchain and nature preservations training facility for the local community
 
